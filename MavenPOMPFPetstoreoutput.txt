@@ -1,0 +1,13 @@
+INFO	2022-06-19 19:05:55,426	0	com.Pet.cjc.webApp.pages.RegisterPage	[main]	Shubham@123
+INFO	2022-06-19 19:05:55,427	1	com.Pet.cjc.webApp.pages.RegisterPage	[main]	Shubham123
+INFO	2022-06-19 19:05:55,428	2	com.Pet.cjc.webApp.pages.RegisterPage	[main]	Shubham123
+INFO	2022-06-19 19:05:55,428	2	com.Pet.cjc.webApp.pages.RegisterPage	[main]	Shubham
+INFO	2022-06-19 19:05:55,429	3	com.Pet.cjc.webApp.pages.RegisterPage	[main]	Dandekar
+INFO	2022-06-19 19:05:55,429	3	com.Pet.cjc.webApp.pages.RegisterPage	[main]	shubhu123@gmail.com
+INFO	2022-06-19 19:05:55,429	3	com.Pet.cjc.webApp.pages.RegisterPage	[main]	9637457845
+INFO	2022-06-19 19:05:55,430	4	com.Pet.cjc.webApp.pages.RegisterPage	[main]	Gajanan nagar
+INFO	2022-06-19 19:05:55,433	7	com.Pet.cjc.webApp.pages.RegisterPage	[main]	lay out
+INFO	2022-06-19 19:05:55,433	7	com.Pet.cjc.webApp.pages.RegisterPage	[main]	wardha
+INFO	2022-06-19 19:05:55,434	8	com.Pet.cjc.webApp.pages.RegisterPage	[main]	maharashtra
+INFO	2022-06-19 19:05:55,434	8	com.Pet.cjc.webApp.pages.RegisterPage	[main]	442545
+INFO	2022-06-19 19:05:55,434	8	com.Pet.cjc.webApp.pages.RegisterPage	[main]	India

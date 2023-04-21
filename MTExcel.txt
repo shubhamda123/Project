@@ -1,0 +1,62 @@
+INFO	2022-06-08 17:28:43,990	0	com.cjc.Mercury_properties_Excel	[main]	OPen browser in BeforeSuite
+INFO	2022-06-08 17:28:47,817	3827	com.cjc.Mercury_properties_Excel	[main]	OPen Url in BeforeTest
+INFO	2022-06-08 17:28:50,953	6963	com.cjc.Mercury_properties_Excel	[main]	maximize webpage in BeforeClass
+INFO	2022-06-08 17:28:51,136	7146	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:28:51,174	7184	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:28:52,844	8854	com.cjc.Mercury_properties_Excel	[main]	username=AAAA
+INFO	2022-06-08 17:28:53,415	9425	com.cjc.Mercury_properties_Excel	[main]	password=aaaa
+INFO	2022-06-08 17:28:56,340	12350	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:28:56,961	12971	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:28:56,973	12983	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:28:57,053	13063	com.cjc.Mercury_properties_Excel	[main]	Username=DSDE
+INFO	2022-06-08 17:28:57,122	13132	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:28:57,378	13388	com.cjc.Mercury_properties_Excel	[main]	delete cookies in after class
+INFO	2022-06-08 17:28:57,378	13388	com.cjc.Mercury_properties_Excel	[main]	Database close in after Test
+INFO	2022-06-08 17:28:57,466	13476	com.cjc.Mercury_properties_Excel	[main]	Browser close in after afterSuite
+INFO	2022-06-08 17:30:58,078	0	com.cjc.Mercury_properties_Excel	[main]	OPen browser in BeforeSuite
+INFO	2022-06-08 17:31:01,615	3537	com.cjc.Mercury_properties_Excel	[main]	OPen Url in BeforeTest
+INFO	2022-06-08 17:31:06,118	8040	com.cjc.Mercury_properties_Excel	[main]	maximize webpage in BeforeClass
+INFO	2022-06-08 17:31:07,374	9296	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:31:07,399	9321	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:31:08,624	10546	com.cjc.Mercury_properties_Excel	[main]	username=AAAA
+INFO	2022-06-08 17:31:08,965	10887	com.cjc.Mercury_properties_Excel	[main]	password=aaaa
+INFO	2022-06-08 17:31:16,087	18009	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:31:16,724	18646	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:31:16,733	18655	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:31:16,810	18732	com.cjc.Mercury_properties_Excel	[main]	Username=DSDE
+INFO	2022-06-08 17:31:16,866	18788	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:31:17,165	19087	com.cjc.Mercury_properties_Excel	[main]	delete cookies in after class
+INFO	2022-06-08 17:31:17,165	19087	com.cjc.Mercury_properties_Excel	[main]	Database close in after Test
+INFO	2022-06-08 17:31:17,272	19194	com.cjc.Mercury_properties_Excel	[main]	Browser close in after afterSuite
+INFO	2022-06-08 17:32:12,062	0	com.cjc.Mercury_properties_Excel	[main]	OPen browser in BeforeSuite
+INFO	2022-06-08 17:32:15,567	3505	com.cjc.Mercury_properties_Excel	[main]	OPen Url in BeforeTest
+INFO	2022-06-08 17:32:18,903	6841	com.cjc.Mercury_properties_Excel	[main]	maximize webpage in BeforeClass
+INFO	2022-06-08 17:32:19,090	7028	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:32:19,121	7059	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:32:20,621	8559	com.cjc.Mercury_properties_Excel	[main]	username=AAAA
+INFO	2022-06-08 17:32:21,412	9350	com.cjc.Mercury_properties_Excel	[main]	password=aaaa
+INFO	2022-06-08 17:32:31,764	19702	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:32:31,995	19933	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:32:32,002	19940	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:32:32,079	20017	com.cjc.Mercury_properties_Excel	[main]	Username=DSDE
+INFO	2022-06-08 17:32:32,160	20098	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:32:32,348	20286	com.cjc.Mercury_properties_Excel	[main]	delete cookies in after class
+INFO	2022-06-08 17:32:32,348	20286	com.cjc.Mercury_properties_Excel	[main]	Database close in after Test
+INFO	2022-06-08 17:32:32,456	20394	com.cjc.Mercury_properties_Excel	[main]	Browser close in after afterSuite
+INFO	2022-06-08 17:32:44,831	0	com.cjc.Mercury_properties_Excel	[main]	OPen browser in BeforeSuite
+INFO	2022-06-08 17:32:48,308	3477	com.cjc.Mercury_properties_Excel	[main]	OPen Url in BeforeTest
+INFO	2022-06-08 17:32:51,745	6914	com.cjc.Mercury_properties_Excel	[main]	maximize webpage in BeforeClass
+INFO	2022-06-08 17:32:51,950	7119	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:32:51,989	7158	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:32:53,637	8806	com.cjc.Mercury_properties_Excel	[main]	username=AAAA
+INFO	2022-06-08 17:32:54,166	9335	com.cjc.Mercury_properties_Excel	[main]	password=aaaa
+INFO	2022-06-08 17:32:58,991	14160	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:32:59,330	14499	com.cjc.Mercury_properties_Excel	[main]	pageload in BeforeMethod
+INFO	2022-06-08 17:32:59,336	14505	com.cjc.Mercury_properties_Excel	[main]	loginpage in Test
+INFO	2022-06-08 17:32:59,411	14580	com.cjc.Mercury_properties_Excel	[main]	Username=DSDE
+INFO	2022-06-08 17:32:59,531	14700	com.cjc.Mercury_properties_Excel	[main]	password=dsde
+INFO	2022-06-08 17:32:59,531	14700	com.cjc.Mercury_properties_Excel	[main]	password1=dsde
+INFO	2022-06-08 17:33:03,123	18292	com.cjc.Mercury_properties_Excel	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-08 17:33:03,674	18843	com.cjc.Mercury_properties_Excel	[main]	delete cookies in after class
+INFO	2022-06-08 17:33:03,675	18844	com.cjc.Mercury_properties_Excel	[main]	Database close in after Test
+INFO	2022-06-08 17:33:03,736	18905	com.cjc.Mercury_properties_Excel	[main]	Browser close in after afterSuite
